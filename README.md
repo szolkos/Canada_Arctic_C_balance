@@ -27,7 +27,7 @@ Source code for the manuscript: Permafrost Landscape History Shapes Fluvial Chem
 ## Scripts
 ### Data processing
 #### *Note: These scripts process the data archived via the link above, which was compiled as detailed in the Methods of this manuscript. Users of these scripts will first need to update working directory pathways within scripts as needed.*  
-*1_.R*: Functions used in some scripts below.
+*1_.R*: Functions used in some scripts below.  
 *2_.R*: Read and compile raw data, to compile QA/QC'd data into spreadsheet that is archived via the link above and used in scripts summarized below.  
 *3_.R*: Calculate mean ± standard error for all variables.  
 *4_.R*: Statistics, as detailed in manuscript Methods.  
