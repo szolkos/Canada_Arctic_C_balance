@@ -27,20 +27,20 @@ Source code for the manuscript: Permafrost Landscape History Shapes Fluvial Chem
 ## Scripts
 ### Data processing
 #### *Note: These scripts process the data archived via the link above, which was compiled as detailed in the Methods of this manuscript. Users of these scripts will first need to update working directory pathways within scripts as needed.*  
-*1_.R*: Functions used in some scripts below.  
-*2_.R*: Read and compile raw data, to compile QA/QC'd data into spreadsheet that is archived via the link above and used in scripts summarized below.  
-*3_.R*: Calculate mean ± standard error for all variables.  
-*4_.R*: Statistics, as detailed in manuscript Methods.  
-*5_.R*: Plot 13C-DIC vs. pH.  
-*6_R.*: Plot carbon species fluxes as proportions of regional total.    
-*7_.R*: Plot C yields vs. runoff by study region.  
-*8_.R*: Perform RDA, plot results.  
-*9_.R*: Plots of total fluvial C flux relative to NEE, by region.  
-*10_.R*: Estimate mean and range of daily CO2 and CH4 efflux from fluvial networks.  
-*11_.R*: Net Ecosystem Carbon Balance (NECB) calculations- mean for each site and location.  
-*12_.R*: Derive mean air temperature and total rainfall over desired interval preceding sampling, graphics for Figures S1, S2.  
-*13_.R*: Plot mean daily NEE estimated from SPL4CMDL vs. AmeriFlux stations.  
-*14_.R*: Plot Figure S2: Absorbance (a254) from Horiba Aqualog vs. Genesys10.  
+*1_functions.R*: Functions used in some scripts below.  
+*2_compile_data.R*: Read and compile raw data, to compile QA/QC'd data into spreadsheet that is archived via the link above and used in scripts summarized below.  
+*3_mean_se.R*: Calculate mean ± standard error for all variables.  
+*4_stats.R*: Statistics, as detailed in manuscript Methods.  
+*5_fig3.R*: Plot 13C-DIC vs. pH.  
+*6_fig4a.R.*: Plot carbon species fluxes as proportions of regional total.    
+*7_fig4bcd.R*: Plot C yields vs. runoff by study region.  
+*8_fig5.R*: Perform RDA, plot results.  
+*9_fig6.R*: Plots of total fluvial C flux relative to NEE, by region.  
+*10_C_gas_upscale.R*: Estimate mean and range of daily CO2 and CH4 efflux from fluvial networks.  
+*11_necb.R*: Net Ecosystem Carbon Balance (NECB) calculations- mean for each site and location.  
+*12_figS1_2.R*: Derive mean air temperature and total rainfall over desired interval preceding sampling, graphics for Figures S1, S2.  
+*13_figS3.R*: Plot mean daily NEE estimated from SPL4CMDL vs. AmeriFlux stations.  
+*14_figS4.R*: Plot Figure S2: Absorbance (a254) from Horiba Aqualog vs. Genesys10.  
 
 ## Packages
 ### *For data processing, plotting, and analyses*
