@@ -1,4 +1,4 @@
-# Canada Arctic ecosystem carbon balance
+# Canada Arctic fluvial chemistry, constituent export, and ecosystem carbon balance
 ## Introduction
 Source code for the manuscript: Permafrost Landscape History Shapes Fluvial Chemistry, Ecosystem Carbon Balance, and Potential Trajectories of Future Change. DOI:https://zenodo.org/badge/509124741
 
