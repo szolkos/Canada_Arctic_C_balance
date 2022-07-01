@@ -1,6 +1,6 @@
 # Canada Arctic fluvial chemistry, constituent export, and ecosystem carbon balance
 ## Introduction
-Source code for the manuscript: Permafrost Landscape History Shapes Fluvial Chemistry, Ecosystem Carbon Balance, and Potential Trajectories of Future Change. DOI:https://zenodo.org/badge/509124741
+Source code for the manuscript: Permafrost Landscape History Shapes Fluvial Chemistry, Ecosystem Carbon Balance, and Potential Trajectories of Future Change. DOI: https://zenodo.org/badge/509124741
 
 ## Authors
 - [Scott Zolkos](https://www.researchgate.net/profile/Scott-Zolkos)
